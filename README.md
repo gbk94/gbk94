@@ -11,7 +11,8 @@ I am a Mobile Application Developer.
  - ⚙️ I use: `.swift`, `.js`, `.java`, `.dart`
  - 🌱 Learning all about Flutter
 
-![Metrics](https://metrics.lecoq.io/gbk94?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&stars=1&notable=1&achievements=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.repositories=false&config.timezone=Europe%2FIstanbul)
+![Metrics](https://metrics.lecoq.io/gbk94?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&stars=1&notable=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&notable.repositories=false&config.timezone=Europe%2FIstanbul)
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gbk94&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
