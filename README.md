@@ -12,7 +12,7 @@ I am a Mobile Application Developer.
  - 🌱 Learning all about Flutter
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gbk94&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gokberkbar&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## Learning
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
