@@ -5,7 +5,7 @@
 Hi! My name is Gökberk Bardakçı.<br/>
 I am a Mobile Application Developer.
 
- - 🏢 I'm currently working at **Colendi**.
+<!-- - 🏢 I'm currently working at **Colendi** -->
  - 🔭 Bachelor's degree in **Software Engineering**.
  - 🔭 Bachelor's degree in **Mechatronics Engineering**.
  - ⚙️ I use: `.swift`, `.js`, `.java`, `.dart`
